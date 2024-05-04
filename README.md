@@ -1,23 +1,25 @@
 ### Hi there I'm Bimme Audrey👋
 I am a passionate B.Tech CS Student at Siantou University Institute, Yaounde-Cameroon, driven by a curiosity for technology and a love for reading. My journey involves delving into a world of computer science, exploring new ideas, and sharing insights with this community.
 
+![<Bimme2audrey>'s Stats](https://github-readme-stats.vercel.app/api?username=<bimme2audrey>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## 🌱 Currently Exploring
 🚀 Learning Frontend web development
--Exploring the ins and outs for dynamic front-end experiences/ seamless page transitions/ Modern and responsive user interfaces.
+-Exploring the ins and outs of dynamic front-end experiences/ seamless page transitions/ Modern and responsive user interfaces.
 
-## Tech Stack
+## Tech Stat
 [!My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## 📫 Get In Touch
 Connect with me on [Linkedin(https://Linkedin.com/Bimme-audrey)
 
 ## 👯
-I’m looking to collaborate on open source projects to hone my skills.
+I’m looking to collaborate on open-source projects to hone my skills.
 
 ## ⚡ Fun fact
-I love reading, music.
+I love reading, and music.
 
-Thanks for stopping by! Let's connecrt and explore the fascinating world of technology together.🚀
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together.🚀
 <!--
 ✨ _special_ ✨ 
 
