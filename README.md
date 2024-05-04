@@ -8,10 +8,10 @@ I am a passionate B.Tech CS Student at Siantou University Institute, Yaounde-Cam
 -Exploring the ins and outs of dynamic front-end experiences/ seamless page transitions/ Modern and responsive user interfaces.
 
 ## Tech Stat
-[!My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## 📫 Get In Touch
-Connect with me on [Linkedin(https://Linkedin.com/Bimme-audrey)
+Connect with me on [Linkedin](https://Linkedin.com/Bimme-audrey)
 
 ## 👯
 I’m looking to collaborate on open-source projects to hone my skills.
