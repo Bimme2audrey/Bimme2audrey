@@ -1,7 +1,7 @@
 ### Hi there I'm Bimme Audrey👋
 I am a passionate B.Tech CS Student at Siantou University Institute, Yaounde-Cameroon, I am curios about how fast technology is evolving, love learning new things, challenging myself to do "hard things" and love reading to learn....My journey involves delving into a world of computer science, exploring new ideas, and sharing insights with this community.
 
-![Bimme's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimme2audrey&show_icons=true&theme=radical
+![Bimme's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bimme2audrey&show_icons=true&theme=radical
 ) 
 
 ## 🌱 Currently Exploring
